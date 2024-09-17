@@ -1,0 +1,28 @@
+p {
+    color:rgb(75, 45, 182);
+}
+
+div{
+    position: relative;
+}
+
+.link1 {
+ color: red;
+}
+
+.link2 {
+ color: rgb(10, 219, 73);
+}
+
+div{
+    background-color: rgb(255, 165, 0);
+}
+
+.image{
+    width: 300px;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+}
